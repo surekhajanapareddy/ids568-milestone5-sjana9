@@ -1,4 +1,4 @@
-# ids568-milestone5-[your_netid]
+# ids568-milestone5-sjana9
 
 MLOps Course — Module 6 | Milestone 5: LLM Inference Optimization with Batching and Caching
 
