@@ -1,0 +1,22 @@
+# MLOps Milestone 5 - Python Dependencies
+
+# Web server
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.0.0
+
+# HTTP client (benchmarks)
+aiohttp>=3.9.0
+
+# Data analysis & visualizations
+numpy>=1.26.0
+matplotlib>=3.8.0
+
+# Optional: real HuggingFace model backend
+# Uncomment if MODEL_NAME is set to a real model ID
+# torch>=2.2.0
+# transformers>=4.40.0
+# accelerate>=0.29.0
+
+# Optional: Redis cache backend (not required for in-process cache)
+# redis>=5.0.0
